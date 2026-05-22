@@ -1,8 +1,8 @@
 <div align="center">
 
-# Sandro Nogueira 👋
+# Sandro Nogueira
 
-### 🤖 Full Stack Builder · AI Systems Architect · Spec-Driven Developer
+### Full Stack Builder · AI Systems Architect · Spec-Driven Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sandronogueira--ai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandronogueira-ai)
 [![Agency](https://img.shields.io/badge/2020Agency.co-Building_with_AI-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://2020agency.co)
@@ -11,32 +11,32 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **High-Impact Individual Contributor** who builds full production systems end-to-end using AI as leverage. One person. An entire department.
 
 I don't just use AI tools — I **architect AI-native systems**: multi-agent pipelines, autonomous outbound machines, MCP servers, and AI-orchestrated SaaS products delivered at agency speed.
 
-- 🏢 Currently **@ 2020Agency.co** — AI-native product studio
-- 🤖 Obsessed with: **Spec-Driven Development · RAG · Autonomous Agents**
-- ⚡ Stack of choice: **Next.js · TypeScript · Python · Supabase · Anthropic Claude**
-- 📍 San Diego, CA (Remote)
+- Currently **@ 2020Agency.co** — AI-native product studio
+- Obsessed with: **Spec-Driven Development · RAG · Autonomous Agents**
+- Stack of choice: **Next.js · TypeScript · Python · Supabase · Anthropic Claude**
+- San Diego, CA (Remote)
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 | System | Description | Stack |
 |---|---|---|
-| 🤖 **SalesMachine v4** | Multi-agent outbound B2B prospecting — Hermes agents + Anthropic + cal.com OAuth + Telegram delivery | `Python` `Anthropic` `Supabase` `Resend` |
-| 🌐 **AcheiUSA App** | Full-stack marketplace for Brazilians finding services in the US — Next.js + Stripe payments | `Next.js` `Supabase` `Stripe` |
-| 🔧 **Cloudflare DNS MCP** | MCP server for DNS record CRUD via Cloudflare API v4 + multi-tenant Vercel routing | `JavaScript` `MCP` `Cloudflare` |
-| 📱 **LinkedIn Content Engine** | X→LinkedIn pipeline with Claude rewrite, Telegram approval flow, and video upload | `Python` `Claude API` `Telegram` |
-| 🧱 **Synkra AIOX** | AI-Orchestrated framework for full stack agent-driven development | `TypeScript` `Agents` `Node.js` |
+| **SalesMachine v4** | Multi-agent outbound B2B prospecting — Hermes agents + Anthropic + cal.com OAuth + Telegram delivery | `Python` `Anthropic` `Supabase` `Resend` |
+| **AcheiUSA App** | Full-stack marketplace for Brazilians finding services in the US — Next.js + Stripe payments | `Next.js` `Supabase` `Stripe` |
+| **Cloudflare DNS MCP** | MCP server for DNS record CRUD via Cloudflare API v4 + multi-tenant Vercel routing | `JavaScript` `MCP` `Cloudflare` |
+| **LinkedIn Content Engine** | X→LinkedIn pipeline with Claude rewrite, Telegram approval flow, and video upload | `Python` `Claude API` `Telegram` |
+| **Synkra AIOX** | AI-Orchestrated framework for full stack agent-driven development | `TypeScript` `Agents` `Node.js` |
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Frontend & Full Stack**
 
@@ -64,7 +64,7 @@ I don't just use AI tools — I **architect AI-native systems**: multi-agent pip
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@ I don't just use AI tools — I **architect AI-native systems**: multi-agent pip
 
 ---
 
-## 💬 My Approach
+## Approach
 
 > *"Uma pessoa só. Um departamento inteiro. Hardness com IA — spec-driven, agent-orchestrated, production-ready."*
 
